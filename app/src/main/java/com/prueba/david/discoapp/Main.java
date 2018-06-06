@@ -11,6 +11,9 @@ import android.view.MenuItem;
 
 public class Main extends AppCompatActivity {
 
+    int pene;
+    int raboPlastico;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
