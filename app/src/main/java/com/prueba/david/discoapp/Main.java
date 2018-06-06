@@ -10,10 +10,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class Main extends AppCompatActivity {
-
-    int pene;
-    int raboPlastico;
-
     //  Prueba
     int i = 0;
 
