@@ -14,6 +14,8 @@ public class Main extends AppCompatActivity {
     int pene;
     int raboPlastico;
 
+    //  Prueba
+    int i = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
